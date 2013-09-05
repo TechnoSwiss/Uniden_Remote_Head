@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xmlCommunication>
+    <comPort>COM1</comPort>
+    <baudRate>115200</baudRate>
+  </xmlCommunication>
+  <xmlScanner>
+    <volume>25</volume>
+    <squelch>14</squelch>
+    <mute>false</mute>
+  </xmlScanner>
+</Settings>
